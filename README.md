@@ -13,7 +13,14 @@ produces an organized report highlighting products expiring that week — reduci
 - Inserts blank rows for readability between commodity groups
 - Adds `Today / Tomorrow / Gone` placeholders
 - Auto-adjusts Excel column widths
-- Creates a styled Excel table for easy analysis
+- Creates a styled Excel table for easy analysis, ready to print
+
+---
+
+## TECH STACK
+Python
+Pandas
+OpenPyXL
 
 ---
 
@@ -28,6 +35,21 @@ produces an organized report highlighting products expiring that week — reduci
 ##  INSTALLATION
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/yourusername/retail-datecoding-automation.git
+git clone https://github.com/Abhishek24J/retail-datecoding-automation.git
 cd retail-datecoding-automation
 pip install -r requirements.txt
+
+---
+
+## USAGE
+Run the script with default filenames:
+python Datecoding_Retail.py
+
+---
+
+## SAMPLE INPUT AND OUTPUT
+**Raw Input (unorganized scan export)**  
+![Sample Input](assets/sample_input.png)
+
+**Processed Report (auto-formatted, print-ready)**  
+![Sample Output](assets/sample_output.png)
