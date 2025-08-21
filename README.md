@@ -55,7 +55,7 @@ python Datecoding_retail.py
 ## 📊 Sample Input and Output
 
 Raw Input (unorganized scan export)
-![Sample Input](assets/sample_input.png 
+![Sample Input](assets/sample_input.png)
 
 Processed Report (auto-formatted, print-ready)
-![Sample Output](assets/sample_output.png blocks for images
+![Sample Output](assets/sample_output.png)
