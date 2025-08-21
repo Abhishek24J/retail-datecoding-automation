@@ -48,8 +48,6 @@ python Datecoding_Retail.py
 ---
 
 ## SAMPLE INPUT AND OUTPUT
-**Raw Input (unorganized scan export)**  
-![Sample Input](assets/sample_input.png)
+![Sample Input](./assets/sample_input.png)
+![Sample Output](./assets/sample_output.png)
 
-**Processed Report (auto-formatted, print-ready)**  
-![Sample Output](assets/sample_output.png)
