@@ -1,15 +1,14 @@
 # retail-datecoding-automation
 
-
-A Python automation script that processes raw retail scan data to identify products nearing expiry and generates structured, print-ready Excel reports. 
-Previously, staff had to scan every single perishable items daily and manually mark them down. With this solution, a single weekly scan is sufficient, and the script 
-produces an organized report highlighting products expiring that week — reducing manual effort and improving accuracy in markdowns, at the same time massively cutting down dump wastage costs.
+A Python automation script that processes raw retail scan data to identify products nearing expiry and generates structured, print-ready Excel reports.  
+Previously, staff had to scan every single perishable item daily and manually mark them down. With this solution, a single weekly scan is sufficient, 
+and the script produces an organized report highlighting products expiring that week — reducing manual effort, improving accuracy in markdowns, and massively cutting down dump wastage costs.
 
 ---
 
-##  FEATURES
+## ✨ Features
 - Renames columns for consistency (`Talker Count` → `Date`)
-- Cleans and sorts data by Commodity Name → Date
+- Cleans and sorts data by **Commodity Name → Date**
 - Inserts blank rows for readability between commodity groups
 - Adds `Today / Tomorrow / Gone` placeholders
 - Auto-adjusts Excel column widths
@@ -17,23 +16,24 @@ produces an organized report highlighting products expiring that week — reduci
 
 ---
 
-## TECH STACK
-Python
-Pandas
-OpenPyXL
+## 🛠 Tech Stack
+- Python  
+- Pandas  
+- OpenPyXL  
 
 ---
 
-##  PROJECT FILES
-- `Datecoding_retial.py` → main automation script  
+## 📂 Project Files
+- `Datecoding_retail.py` → main automation script  
 - `requirements.txt` → dependencies  
 - `Datecoding_Input_Raw.xlsx` → sample raw input  
 - `Datecoding_Output.xlsx` → sample processed output  
 
 ---
 
-##  INSTALLATION
+## ⚙️ Installation
 Clone the repo and install dependencies:
+
 ```bash
 git clone https://github.com/Abhishek24J/retail-datecoding-automation.git
 cd retail-datecoding-automation
@@ -41,13 +41,19 @@ pip install -r requirements.txt
 
 ---
 
-## USAGE
+## 🚀 Usage
+
 Run the script with default filenames:
-python Datecoding_Retail.py
+
+python Datecoding_retail.py
 
 ---
 
-## SAMPLE INPUT AND OUTPUT
-![Sample Input](./assets/sample_input.png)
-![Sample Output](./assets/sample_output.png)
+## 📊 Sample Input and Output
 
+Raw Input (unorganized scan export)
+
+
+Processed Report (auto-formatted, print-ready)
+
+---
