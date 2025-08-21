@@ -57,9 +57,9 @@ python Datecoding_retail.py
 ## 📊 Sample Input and Output
 
 <p align="center"> <b>Raw Input (unorganized scan export)</b><br>
-<img src="assets/datecoding_input_pic.png" alt="Sample Output" width="775"> </p>
+<img src="assets/datecoding_input_pic.png" alt="Input Pic" width="775"> </p>
 
 <br>
 
 <p align="center"> <b>Processed Report (auto-formatted, print-ready)</b><br> 
-<img src="assets/datecoding_output_pic.png" alt="Sample Output" width="775"> </p>
+<img src="assets/datecoding_output_pic.png" alt="Output Pic" width="775"> </p>
