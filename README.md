@@ -1,10 +1,8 @@
 # retail-datecoding-automation
 
-A Python automation script that processes raw retail scan data to identify products nearing expiry and generates structured, print-ready Excel reports.  
+A Python automation script that processes raw retail scan data to identify products nearing expiry and generates structured, print-ready Excel reports. 
 
-Previously, staff had to scan every single perishable item daily and manually mark them down. With this solution, a single weekly scan is sufficient, 
-and the script produces an organized report highlighting products expiring that week, which any of the staff can refer to and markdown as required,
-reducing manual effort, improving accuracy in markdowns, and massively cutting down dump wastage costs.
+Previously, staff had to scan every single perishable item daily and mark them down manually. With this solution, only one weekly scan is needed, producing organized reports that staff can use to markdown expiring products—reducing labor, improving accuracy, and significantly cutting wastage costs.
 
 ---
 
@@ -63,3 +61,13 @@ python Datecoding_retail.py
 
 <p align="center"> <b>Processed Report (auto-formatted, print-ready)</b><br> 
 <img src="assets/datecoding_output_pic.png" alt="Output Pic" width="775"> </p>
+
+---
+
+## 👨💻 Author
+
+Created by **Abhishek Javalkoti** — Master’s Graduate from the University of Sydney, and a Data Analysis & Consulting Enthusiast.  
+
+🔗 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/abhishekjavalkoti/)  
+- [GitHub](https://github.com/Abhishek24J)  
