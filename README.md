@@ -38,6 +38,7 @@ Clone the repo and install dependencies:
 git clone https://github.com/Abhishek24J/retail-datecoding-automation.git
 cd retail-datecoding-automation
 pip install -r requirements.txt
+```
 
 ---
 
@@ -45,7 +46,9 @@ pip install -r requirements.txt
 
 Run the script with default filenames:
 
+```
 python Datecoding_retail.py
+```
 
 ---
 
