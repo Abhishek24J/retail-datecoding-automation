@@ -26,7 +26,7 @@ and the script produces an organized report highlighting products expiring that 
 ## 📂 Project Files
 - `Datecoding_retail.py` → main automation script  
 - `requirements.txt` → dependencies  
-- `Datecoding_Input_Raw.xlsx` → sample raw input  
+- `Datecoding_Input.xlsx` → sample raw input  
 - `Datecoding_Output.xlsx` → sample processed output  
 
 ---
