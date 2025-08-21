@@ -28,6 +28,6 @@ produces an organized report highlighting products expiring that week — reduci
 ##  INSTALLATION
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/yourusername/supabarn-datecoding-automation.git
+git clone https://github.com/yourusername/retail-datecoding-automation.git
 cd retail-datecoding-automation
 pip install -r requirements.txt
